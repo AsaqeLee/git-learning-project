@@ -47,6 +47,7 @@ git-learning-project/
 
 - 2025-01-23: 完成Git基础概念学习
 - 2025-01-23: 开始Git基本操作实践
+- 2025-01-23: 学习add、commit、status、log、diff命令
 
 ---
 
