@@ -56,7 +56,8 @@ if __name__ == "__main__":
     print(f"10 - 4 = {calc.subtract(10, 4)}")
     print(f"6 * 7 = {calc.multiply(6, 7)}")
     print(f"15 / 3 = {calc.divide(15, 3)}")
-    
+    print(f"2 ^ 8 = {calc.power(2, 8)}")
+
     print("\n计算历史:")
     for record in calc.get_history():
         print(record)
