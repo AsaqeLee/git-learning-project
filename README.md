@@ -36,8 +36,8 @@ git-learning-project/
 
 ## 学习进度
 
-- [x] Git环境配置
-- [x] 基本操作实践 - 正在学习中
+- [X] Git环境配置
+- [X] 基本操作实践 - 正在学习中
 - [ ] 分支管理
 - [ ] 远程仓库操作
 - [ ] 高级功能
@@ -51,6 +51,6 @@ git-learning-project/
 
 ---
 
-**作者**: AsaqeLee  
-**邮箱**: tianleili2001@gmail.com  
+**作者**: AsaqeLee
+**邮箱**: tianleili2001@gmail.com
 **创建时间**: 2025年1月
