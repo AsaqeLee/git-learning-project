@@ -43,6 +43,12 @@ class Calculator:
         """清空计算历史"""
         self.history.clear()
 
+    def power(self, a, b):
+        """幂运算"""
+        result = a ** b
+        self.history.append(f"{a} ^ {b} = {result}")
+        return result
+
 if __name__ == "__main__":
     calc = Calculator()
     print("计算器演示:")
